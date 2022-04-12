@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Custom Adapter</string>
+
+    <string-array name="mymensingh_district">
+        <item>Bhaluka</item>
+        <item>Trishal</item>
+        <item>Haluaghat</item>
+        <item>Muktagacha</item>
+        <item>Dhobaura</item>
+        <item>Fulbaria</item>
+        <item>Gaffargaon</item>
+        <item>Gauripur</item>
+        <item>Ishwarganj</item>
+        <item>Mymensingh Sadar</item>
+        <item>Nandail</item>
+        <item>Phulpur</item>
+        <item>Tarakhanda</item>
+
+    </string-array>
+
+</resources>
